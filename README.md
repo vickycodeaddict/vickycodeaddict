@@ -1,19 +1,22 @@
-# Hi I'm Vicky
-### Full-Stack web developer & Dedicated resource
+# Hi I'm Vivek (Vicky)
+### Full-Stack web developer
 
-Find more detail on www.vickycodeaddict.com 
+Experienced Full-Stack Web Developer with over 10 years of expertise in
+developing high-performance, scalable web apps and e-commerce
+solutions. Specialises in Shopify, WordPress, and custom plugin
+development to meet business requirements and optimise user experience.
+Proficient in delivering end-to-end solutions tailored to global markets,
+ensuring alignment with business goals and technical excellence.
 
-I Create Custom Theme, Plugin and addon for WordPress website with frontend & backend architecture.
+My Expertise are:
 
-My Expertise
-
-- Wordpress Plugin Development
-- Wordpress Theme Development
-- Wordpress Optimization & Security
+- Shopify Development
+- Wordpress Development (Plugin & Theme)
+- Shopify App Development
+- Optimization & Security
 - Custom Integration (MLS, Alexa, DRM etc.)
-- Shopify
-- Magento 2
-- Laravel & React
+- PHP (Magento 2, Laravel)
+- Remix, React Js
 - Frontend (CSS, SASS, Bootstrap, jQuery etc.)
 - Version Control & Tools (Git, Gitlab, Bitbucket, Jira, Trello etc.)
 
